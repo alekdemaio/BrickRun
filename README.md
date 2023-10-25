@@ -1,2 +1,3 @@
 # BrickRun
-link to current version of "BrickRun" video game.
+
+https://holdemaio.itch.io/brickrun <- link to current version of "BrickRun" video game.
