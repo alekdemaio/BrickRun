@@ -1,6 +1,6 @@
 # < BrickBreaker >
 
-[Windows](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.win.zip)
+[Windows](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreakerMobile.exe)
 [Mac](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.mac.zip)
 [Linux](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.lin.x86_64.zip)
 
