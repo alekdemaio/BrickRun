@@ -1,5 +1,7 @@
-# BrickRun
+# < BrickBreaker >
 
-https://holdemaio.itch.io/brickrun
+[Windows](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.win.zip)
+[Mac](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.mac.zip)
+[Linux](https://github.com/alekdemaio/BrickRun/releases/download/games/BrickBreaker.lin.x86_64.zip)
 
-Above link is to a downloadable version of BrickRun
+The above links are the different downloadable versions of the game. Have fun!
